@@ -6,3 +6,5 @@ def f_sort_avg(ls):
         return res
     except Exception as e:
         return f"error: {e}"
+    
+    
