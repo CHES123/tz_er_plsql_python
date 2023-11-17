@@ -1,0 +1,12 @@
+srv_list.py -приложение сервер
+cln_get.py - приложение клиент
+functions.py - логика
+
+1. Создать виртуальное окружение 'python -m venv venv'
+2. активировать виртуальное окружение 'source ./venv/bin/activate'
+3. установить зависмости из файла requeirements.txt 'pip install -r requeirements.txt'
+4. запустить сервер приложение 'flask --app srv_list --debug  run'
+5. запустить запрос 'python3 cln_get.py'
+
+
+
